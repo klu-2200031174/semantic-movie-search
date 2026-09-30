@@ -1,0 +1,17 @@
+# Python virtual environment and caches
+venv/
+.venv/
+__pycache__/
+
+# The raw 80 MB download (prepare_data.py re-downloads it if needed)
+data/wiki_movie_plots_raw.csv
+*.part
+
+# Gradio's temporary files
+.gradio/
+flagged/
+
+# OS junk files
+.DS_Store
+Thumbs.db
+desktop.ini
