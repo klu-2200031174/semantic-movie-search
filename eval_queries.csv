@@ -1,0 +1,39 @@
+query,expected_title,expected_year,query_type
+a man is stuck reliving the same day again and again,Groundhog Day,1993,describe the idea
+thieves steal secrets by sneaking into people's dreams,Inception,2010,describe the idea
+a guy slowly realises his whole life is secretly being broadcast as a TV show,The Truman Show,1998,describe the idea
+a lonely little robot cleans up an abandoned Earth covered in trash,WALL-E,2008,describe the idea
+a young boy forgotten at home by his family has to protect the house from two crooks,Home Alone,1990,describe the idea
+an astronaut left behind on another planet has to grow his own food to survive,The Martian,2015,describe the idea
+a worried father fish crosses the ocean to find his missing son,Finding Nemo,2003,describe the idea
+a girl's feelings are little characters living inside her head,Inside Out,2015,describe the idea
+a child who can't read properly is called lazy until a teacher realises he has a learning disorder,Taare Zameen Par,2007,describe the idea
+an alien lands on earth and starts questioning why people follow religion,PK,2014,describe the idea
+a murdered man comes back as a tiny insect to take revenge on his killer,Makkhi,2012,describe the idea
+a father hides all the evidence to protect his family after his daughter accidentally kills a boy,Drishyam,2013,describe the idea
+a scientist builds a humanoid robot that falls in love with the scientist's girlfriend,Robot,2010,describe the idea
+a gangster pretends to be a doctor in training so his parents think he is respectable,Munna Bhai M.B.B.S.,2003,describe the idea
+a woman goes on her honeymoon trip alone after her fiance calls off the wedding,Queen,2014,describe the idea
+a housewife secretly takes language classes after her family mocks her for her poor English,English Vinglish,2012,describe the idea
+a man with short-term memory loss tracks down the person who murdered his wife,Memento,2000,describe the idea
+a child who can see ghosts is treated by a psychologist,The Sixth Sense,1999,describe the idea
+a lawyer is magically unable to tell a single lie for a whole day,Liar Liar,1997,describe the idea
+a mother and her teenage daughter wake up in each other's bodies,Freaky Friday,2003,describe the idea
+a traveller gets stuck living in an airport for months because his passport becomes invalid,The Terminal,2004,describe the idea
+a board game brings wild jungle animals into a small town,Jumanji,1995,describe the idea
+an inventor accidentally shrinks his children to the size of insects,"Honey, I Shrunk the Kids",1989,describe the idea
+a divorced dad disguises himself as an elderly nanny so he can see his kids,Mrs. Doubtfire,1993,describe the idea
+after a plane crash a man survives completely alone on an island for years,Cast Away,2000,describe the idea
+a rat who dreams of becoming a chef in a fancy restaurant,Ratatouille,2007,describe the idea
+a pig raised by a sheepdog learns to herd sheep,Babe,1995,describe the idea
+a pilot makes an emergency landing on a river after birds hit the engines,Sully,2016,describe the idea
+poor villagers bet against British officers in a cricket match to escape heavy taxes,Lagaan: Once Upon a Time in India,2001,describe the idea
+a lonely man falls in love with the voice of his computer's operating system,Her,2013,describe the idea
+a bus is rigged to explode if it drops below fifty miles per hour,Speed,1994,describe the idea
+a man keeps waking up on a train minutes before a bomb goes off,Source Code,2011,describe the idea
+Marty McFly DeLorean Doc Brown,Back to the Future,1985,exact names
+Hannibal Lecter Clarice Starling,The Silence of the Lambs,1991,exact names
+Simba Mufasa Scar,The Lion King,1994,exact names
+Rancho Farhan Raju,3 Idiots,2009,exact names
+Jack Dawson Rose DeWitt Bukater,Titanic,1997,exact names
+John McClane Nakatomi Plaza,Die Hard,1988,exact names
